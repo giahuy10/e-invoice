@@ -1,0 +1,65 @@
+{
+  "menu": {
+    "home": "Home",
+    "eInvoice": "전자 인보이스",
+    "customers": "고객",
+    "pricing": "가격",
+    "help": "지원 센터",
+    "trial": "무료 시험판",
+    "login": "로그인",
+    "caseStudies": "사례 연구",
+    "about": "회사 소개",
+    "support": "지원하다",
+    "checkTaxNumber": "세금 번호 확인",
+    "checkRisk": "세금 위험 확인",
+    "news": "신문",
+    "qnA": "질의 응답",
+    "searchPlaceholder": "뭔가 입력",
+    "searchBtn": "수색",
+    "language": "언어",
+    "langVi": "베트남 사람",
+    "langEn": "영어",
+    "langKr": "한국어"
+  },
+  "home": {
+    "slider": {
+      "heading": "베트남에서 가장 강력한 전자 인보이스 소프트웨어",
+      "subheading": "온라인 인보이스, 반복 청구, 고객 / 공급 업체 패널, 시간 추적, 워크 플로우 등을 통해 비즈니스 프로세스 및 커뮤니케이션을 자동화하십시오.",
+      "btn": "무료 데모 신청"
+    },
+    "feature": {
+      "heading": "비즈니스 개선에 도움이되는 기능",
+      "subheading": "효과적이고 효율적으로 비즈니스를 관리 할 수있는 다양한 기능이 제공됩니다.",
+      "feature1": "즉시 출시",
+      "feature2": "돈 절약",
+      "feature3": "효과적인 관리",
+      "feature4": "쉽게 사용자 정의",
+      "feature5": "10 년간 무료 저장 용량",
+      "feature6": "24 시간 연중 무휴 지원"
+    },
+    "testimonial": {
+      "heading1": "300 만 명 이상의 사용자",
+      "subheading1": "우리는 끊임없이 성장하는 고객 만족 기반을 가지고 있습니다.",
+      "heading2": "60 개 이상의 기업 고객",
+      "subheading2": "우리는 기업 및 맞춤 송장 솔루션을위한 최고의 솔루션 제공 업체입니다.",
+      "heading3": "12 세 이상, 40 개 이상의 국가",
+      "subheading3": "우리는 전 세계적으로 온라인 인보이스 발행 도구 중 가장 선호되는 도구 중 하나입니다."
+    }
+  },
+  "footer": {
+    "privacy": "개인 정보 정책",
+    "term": "서비스 약관 ",
+    "data": "데이터 백업",
+    "feedback": "피드백"
+  },
+  "dashboard": {
+    "menu": {
+      "dashboard": "Dashboard",
+      "clients": "Clients",
+      "orders": "Orders",
+      "notifications": "Notifications",
+      "tickets": "Tickets",
+      "inquiries": "Inquiries"
+    }
+  }
+}

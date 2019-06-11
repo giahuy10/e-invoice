@@ -1,0 +1,66 @@
+{
+  "menu": {
+    "home": "Home",
+    "eInvoice": "E-Invoice",
+    "customers": "Customers",
+    "pricing": "Pricing",
+    "help": "Help center",
+    "trial": "Free trial",
+    "login": "Login",
+    "caseStudies": "Case studies",
+    "about": "About us",
+    "support": "Support",
+    "checkTaxNumber": "Look up TAX code",
+    "checkRisk": "Look up tax risks",
+    "news": "News",
+    "qnA": "Q&A",
+    "searchPlaceholder": "Type something",
+    "searchBtn": "Search",
+    "language": "Languages",
+    "langVi": "Vietnamese",
+    "langEn": "English",
+    "langKr": "Korean"
+  },
+  "home": {
+    "slider": {
+      "heading": "Vietnam's Most Powerful <br> E-Invoicing Software",
+      "subheading": "Automate your business processes & communication with online invoicing, recurring billing, client / vendor panels, time tracking, workflows & more.",
+      "btn": "Request a free demo"
+    },
+    "feature": {
+      "heading": "Features to Help Your Business Better",
+      "subheading": "Invoicera comes with a range of features to manage a business effectively and efficiently.",
+      "feature1": "Instant release",
+      "feature2": "Save money",
+      "feature3": "Effective management",
+      "feature4": "Customize easily",
+      "feature5": "Free storage in 10 years",
+      "feature6": "Support 24/7"
+    },
+    "testimonial": {
+      "heading1": "Over 3 Million Users",
+      "subheading1": "We have an ever-growing user-base of satisfied customers.",
+      "heading2": "60+ Enterprise Customers",
+      "subheading2": "We are the best solution provider for enterprise and customized invoicing solutions.",
+      "heading3": "12+ Years, 40+ Countries",
+      "subheading3": "We are one of the most preferred tools for online invoicing, globally."
+    }
+  },
+  "footer": {
+    "privacy": "Privacy Policy",
+    "term": "Terms Of Service ",
+    "data": "Data Backup",
+    "feedback": "Feedback"
+  },
+  "dashboard": {
+    "menu": {
+      "dashboard": "Dashboard",
+      "clients": "Clients",
+      "orders": "Orders",
+      "notifications": "Notifications",
+      "tickets": "Tickets",
+      "inquiries": "Inquiries"
+    }
+  }
+
+}

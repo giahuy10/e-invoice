@@ -1,0 +1,82 @@
+{
+  "menu": {
+    "home": "Home",
+    "eInvoice": "Hóa đơn điện tử",
+    "customers": "Khách hàng",
+    "pricing": "Bảng giá",
+    "help": "Trung tâm hỗ trợ",
+    "trial": "Dùng thử",
+    "login": "Đăng nhập",
+    "caseStudies": "Giải pháp",
+    "about": "Giới thiệu",
+    "support": "Hỗ trợ",
+    "checkTaxNumber": "Tra cứu mã số thuế",
+    "checkRisk": "Tra cứu rủi ro về thuế",
+    "news": "Bản tin thuế",
+    "qnA": "Câu hỏi thường gặp",
+    "searchPlaceholder": "Gõ từ khóa bạn muốn tìm kiếm",
+    "searchBtn": "Tìm kiếm",
+    "language": "Ngôn ngữ",
+    "langVi": "Tiếng Việt",
+    "langEn": "Tiếng Anh",
+    "langKr": "Tiếng Hàn"
+  },
+  "home": {
+    "slider": {
+      "heading": "HÓA ĐƠN ĐIỆN TỬ VNPT  <br>VNPT - EINVOICE",
+      "subheading": "Phát hành nhanh - An toàn, bảo mật - Tiết kiệm chi phí.",
+      "btn": "Dùng thử miễn phí"
+    },
+    "feature": {
+      "heading": "Tính năng nổi bật",
+      "subheading": "đi kèm với một loạt các tính năng để quản lý một doanh nghiệp hiệu quả và hiệu quả.",
+      "feature1": "Phát hành nhanh chóng",
+      "desc1": "Hóa đơn được gửi ngay cho khách hàng thông qua Email hoặc tin nhắn",
+      "feature2": "Tiết kiệm chi phí",
+      "desc2": "Tiết kiệm chi phí 80% so với hóa đơn giấy",
+      "feature3": "Quản lý hiệu quả",
+      "desc3": "Thuận tiện hạch toán, kế toán, đối chiếu dữ liệu",
+      "feature4": "Dễ dàng tùy biến",
+      "desc4": "Kết nối nhanh chóng với các phần mềm có sẵn như Misa, Bravo, SAP...",
+      "feature5": "An toàn bảo mật",
+      "desc5": "Được lưu trữ trên máy chủ đặt tại 2 IDC ( Internet Data Center) chuẩn Tier3 ",
+      "feature6": "Hỗ trợ 24/7",
+      "desc6": "Bất kì khó khăn nào trong quá trình sử dụng đều được hỗ trợ ngay lập tức"
+    },
+    "testimonial": {
+      "heading1": "Trên 3000 người dùng",
+      "subheading1": "Số lượng người dùng ngày càng tăng dựa trên sự hài lòng của khách hàng.",
+      "heading2": "15+ doanh nghiệp",
+      "subheading2": "Giải pháp hóa đơn điện tử phù hợp với tất cả doanh nghiệp dù lớn hay nhỏ",
+      "heading3": "Trên 5 năm kinh nghiệm",
+      "subheading3": "Chúng tôi đáp ứng đủ kinh nghiệp để triển khai những hệ thống phức tạp"
+    }
+  },
+  "footer": {
+    "privacy": "Chính sách bảo mật",
+    "term": "Điều khoản dịch vụ",
+    "data": "Sao lưu dữ liệu",
+    "feedback": "Phản hồi"
+  },
+  "innerPage": {
+    "caseStudies": {
+      "heading": "Các giải pháp LDCC đã triển khai cho khách hàng",
+      "software": "Phần mềm đang sử dụng",
+      "solution": "Giải pháp",
+      "solutions": {
+        "si": "Tích hợp hệ thống",
+        "ms": "Server trung gian"
+      }
+    }
+  },
+  "dashboard": {
+    "menu": {
+      "dashboard": "Dashboard",
+      "clients": "Clients",
+      "orders": "Orders",
+      "notifications": "Notifications",
+      "tickets": "Tickets",
+      "inquiries": "Inquiries"
+    }
+  }
+}
